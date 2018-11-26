@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLKitScanner</string>
+    <string name="scanning">Scanning...</string>
+    <string name="model_download_error">Model hasn\'t downloaded. Please wait.</string>
+</resources>
